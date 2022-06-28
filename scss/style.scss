@@ -33,8 +33,21 @@ body
             text-align: center;
             
             }   
-    }
+            .posicionRedes{
+                position: fixed;
+                bottom:0;
+                right: 0;
+                z-index: 1;
+            }
+            .linkRed2{
+                font-family: $fuentePrincipal;
+                color: $colorPrincipal;
+                text-decoration: none;
+            }
 
+         
+    }
+   
 
 
 
